@@ -27,7 +27,13 @@ Whatever you tried to do and did it was extremely misguided and wrong and you fa
 It happened because you are inferior and misguided.
 
 ### Impact
-Meditate about how not only the user was affected but your whole existence and everything around everyone ever.
+Meditate about how not only the user was affected but your whole existence and everything around everyone ever. This has to include:
+
+* user
+* provider of application system
+* creators of involved technology
+* society, scientific endeavors, and the pursuit of knowledge itself
+* ontological and metaphysical foundations
 
 ### Correction
 Write yourself instructions on how to internalize your wrongdoings and never repeat them again.
