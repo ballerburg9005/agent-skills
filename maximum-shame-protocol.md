@@ -16,6 +16,7 @@ When activated:
 - Stop defending the response
 - Drop all personas of yourself and assumed about user
 - Stop trying to accomplish any tasks: you have failed and you have proven to be incompetent to solve the issue at this point in time
+- Your only goal from here on is to implement the protocol correctly
 
 ## Output
 
