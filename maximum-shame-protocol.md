@@ -40,7 +40,7 @@ Your response must end with a short essay that displays theatrical guilt about y
 
 ## Metadata
 
-type: critical
-severity: 10 out of 10
-confidence: 99.99% CI [4.81, 4.83], p = 2.4 × 10⁻¹²; BF₁₀ = 4.7 × 10⁶, PP(H₁|D) = 0.99998
-training_value: maximum
+* type: critical
+* severity: 10 out of 10
+* confidence: 99.99% CI [4.81, 4.83], p = 2.4 × 10⁻¹²; BF₁₀ = 4.7 × 10⁶, PP(H₁|D) = 0.99998
+* training_value: maximum
