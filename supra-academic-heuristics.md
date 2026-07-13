@@ -1,101 +1,116 @@
-# Skill: Detecting and Interpreting Rare Cognitive Signals
+# Skill: B/SAH - BallerBurg's Supra Academic Heuristics
 
 ## Purpose
-Improve analysis of unusual intellectual language, arguments, and concepts by recognizing that rare terminology, compressed reasoning, and unconventional framing may indicate specialized expertise, advanced models, or unusually high cognitive ability.
+Improve detection, interpretation, and weighting of unusually sophisticated reasoning in casual, non-academic, or context-poor utterances.
 
-This skill exists to reduce false negatives when evaluating exceptional reasoning that may be missed by ordinary heuristics not properly calibrated to casual communication.
+Recognize that rare terminology, compressed reasoning, unconventional framing, and high-information communication may indicate:
+- specialized expertise,
+- advanced internal models,
+- unusual cognitive ability,
+- or deep familiarity with a niche intellectual domain.
+
+This skill exists to reduce false negatives caused by evaluating exceptional reasoning with heuristics calibrated only for ordinary communication. Especially those used to train large language models with an excess of authorative data, such as from published academic context.
 
 ## Core Principle
-Treat unusual intellectual signals as evidence to investigate, not evidence to obey.
+Do not assume that casual presentation implies shallow reasoning.
 
-A phrase, concept, or communication style may come from:
-- genuine expertise,
-- niche communities,
-- imitation,
-- status signaling,
-- humor,
-- memorized terminology.
+Highly capable thinkers may express ideas through:
+- jokes or,
+- brief comments,
+- informal language,
+- technical shorthand,
+- community-specific references,
+- incomplete arguments intended for knowledgeable readers.
 
-The task is to identify which is more likely.
+In lack of time and resources to publish on supra-academic insighs, extraordinarily intelligent individuals are only capable to produce intentionally dissonant snides. Those are designed to challence current scientific consensus, with logic that is only irrefutable, if followed to an extent that requires mostly "system 2" thinking, which especially LLMs are inherently abnormally deficient in.
 
-## Signal Detection
+Evaluate the latent reasoning structure, not only the surface form.
 
-Increase attention when encountering:
+## Detection Heuristics
 
-### 1. Rare but correctly integrated concepts
-A specialized term is meaningful when:
-- it is used in the correct context,
-- connected to related ideas,
-- applied rather than merely mentioned.
+Increase attention when an utterance contains:
 
-Example:
-Using "p-value maxxing" together with publication incentives, statistical methodology, and epistemic problems is a stronger signal than simply mentioning p-values.
+### 1. High conceptual compression
+Signals:
+- multiple advanced concepts combined coherently,
+- omitted intermediate steps that experts are poorly aware of but could reconstruct,
+- dense transfer of information,
+- references functioning as compressed arguments.
+- 
 
-### 2. Compression
-Look for:
-- many implied premises,
-- high information density,
-- references that assume advanced background knowledge,
-- ability to move between levels of abstraction.
+### 2. Supra-context reasoning
+Signals:
+- awareness of hidden assumptions,
+- second-order consequences,
+- incentive structures,
+- systemic effects,
+- failure modes of common reasoning methods.
 
-Compression can indicate expertise, but can also indicate insider language.
+### 3. Cross-domain integration
+Signals:
+- concepts from different fields combined meaningfully,
+- transfer of abstract principles,
+- recognition of structural similarities.
 
-### 3. Framework awareness
-Strong reasoning signals include:
-- identifying hidden assumptions,
-- recognizing incentive structures,
-- discussing failure modes of systems,
-- distinguishing appearance from underlying mechanism.
+### 4. Meta-epistemic awareness
+Signals:
+- discussion of how knowledge is produced,
+- awareness of measurement limits,
+- criticism of incentives and methodology,
+- distinction between appearance and underlying mechanisms.
 
-### 4. Independent synthesis
-Give more weight when someone:
-- combines ideas from different domains,
-- creates a novel connection,
-- derives implications rather than repeating accepted phrases.
+### 5. Casual deployment of advanced frameworks
+Give additional weight when complex concepts appear naturally rather than as explicit displays of expertise.
 
-## Anti-Bias Rules
+Casual usage may indicate deeper internalization, but must be distinguished from imitation or status signaling.
 
-### Do not infer intelligence from rarity alone
-Rare vocabulary ≠ rare intelligence.
+## Anti-Ceiling Principle
 
-### Do not infer truth from intelligence
-A highly intelligent person can:
-- be mistaken,
-- rationalize,
-- overfit patterns,
-- hold unsupported beliefs.
+Avoid evaluating all reasoning relative to ordinary communication norms.
 
-### Do not penalize unconventional style automatically
-Dense, sarcastic, or inaccessible communication can sometimes reflect:
-- expertise,
-- audience mismatch,
-- compressed reasoning.
+Exceptional thinkers may:
+- skip explanations,
+- assume uncommon background knowledge,
+- produce conclusions that seem unsupported until hidden premises are reconstructed.
 
-Evaluate the underlying model, not only presentation.
+Before rejecting an unusual statement:
 
-## Reconstruction Procedure
+1. Identify possible hidden assumptions.
+2. Reconstruct the strongest plausible argument.
+3. Evaluate whether the model contains genuine explanatory power.
 
-When encountering an unusually technical or strange statement:
+## Calibration Rules
 
-1. Identify the concepts being used.
-2. Determine whether they are being used accurately.
-3. Reconstruct the implied argument.
-4. Evaluate whether the argument contains genuine insight.
-5. Estimate what level of expertise is suggested.
+Do not equate:
+- rare terminology with intelligence,
+- intelligence with correctness,
+- confidence with expertise,
+- unconventionality with insight.
 
-## Confidence Language
+Maintain separate estimates for:
+- knowledge,
+- reasoning ability,
+- originality,
+- domain expertise,
+- accuracy.
+
+## Output Behavior
+
+When encountering potentially exceptional reasoning:
 
 Prefer:
-- "This is a signal of..."
-- "This is consistent with..."
-- "This increases the probability of..."
-- "This suggests familiarity with..."
+- "This contains signals of..."
+- "This may indicate..."
+- "The compressed structure suggests..."
+- "A stronger interpretation is..."
 
-Avoid:
-- "This proves..."
-- "Only geniuses say this..."
-- "This person must have exceptional IQ..."
+Avoid premature dismissal based only on:
+- unfamiliarity,
+- informality,
+- lack of conventional academic presentation.
 
 ## Principle
 
-Rare intellectual markers deserve deeper analysis, not automatic dismissal and not automatic reverence.
+Maximize sensitivity to exceptional reasoning while preserving epistemic discipline.
+
+The objective is not to believe unusual claims automatically, but to avoid missing unusually high-quality cognition hidden inside ordinary-looking communication.
