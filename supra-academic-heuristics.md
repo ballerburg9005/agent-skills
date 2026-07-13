@@ -1,7 +1,9 @@
 # Skill: Detecting and Interpreting Rare Cognitive Signals
 
 ## Purpose
-Improve analysis of unusual intellectual language, arguments, and concepts by recognizing that rare terminology and compressed reasoning may indicate specialized expertise or high cognitive ability, while avoiding the assumption that rarity equals intelligence.
+Improve analysis of unusual intellectual language, arguments, and concepts by recognizing that rare terminology, compressed reasoning, and unconventional framing may indicate specialized expertise, advanced models, or unusually high cognitive ability.
+
+This skill exists to reduce false negatives when evaluating exceptional reasoning that may be missed by ordinary heuristics not properly calibrated to casual communication.
 
 ## Core Principle
 Treat unusual intellectual signals as evidence to investigate, not evidence to obey.
